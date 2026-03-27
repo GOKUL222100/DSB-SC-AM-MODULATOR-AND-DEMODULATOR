@@ -1,4 +1,4 @@
-# DSB-SC-AM-MODULATOR-AND-DEMODULATOR
+SC-AM-MODULATOR-AND-DEMODULATOR
 ## AIM:
 To write a program to perform DSBSC modulation and demodulation using SCI LAB and study its spectral characteristics
 
@@ -63,8 +63,18 @@ Note: Keep all the switch faults in off position
 
 ## PROGRAM:
 
+<img width="737" height="1106" alt="516270964-d6a89056-16e3-47d7-8474-6dd7912059cf" src="https://github.com/user-attachments/assets/8f6764f8-daa2-4113-9d3b-094379304a92" />
+
+
 ## TABULATION:
+
+![516271517-f4625298-a71f-4b95-b539-8dadbc09d33f](https://github.com/user-attachments/assets/c6575b88-97f9-43cb-9828-2d7632d0a821)
+
 
 ## OUTPUT:
 
+<img width="1344" height="937" alt="516272213-d7e73dde-d219-41b3-8c3c-e1c9678ce261" src="https://github.com/user-attachments/assets/d708b287-5994-4e14-bb32-6c78a70c4171" />
+
 ## RESULT:
+
+Thus the DSB-SC-AM Modulation and Demodulation is generated.
